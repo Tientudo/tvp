@@ -1,0 +1,120 @@
+#EXTM3U
+
+#EXTINF:0,Argentina | A24
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/19558.m3u8
+#EXTINF:0,Argentina | A24
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/14082.m3u8
+#EXTINF:0,Argentina | A24 SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40022.m3u8
+#EXTINF:0,Argentina | America TV
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12641.m3u8
+#EXTINF:0,Argentina | America TV SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40026.m3u8
+#EXTINF:0,Argentina | C5N
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/4191.m3u8
+#EXTINF:0,Argentina | C5N SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40031.m3u8
+#EXTINF:0,Argentina | Canal 26
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12291.m3u8
+#EXTINF:0,Argentina | Canal 26 SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40033.m3u8
+#EXTINF:0,Argentina | Cronica TV
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12658.m3u8
+#EXTINF:0,Argentina | Cronica TV SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40024.m3u8
+#EXTINF:0,Argentina | DeporTV
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/6683.m3u8
+#EXTINF:0,Argentina | El Nueve
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12622.m3u8
+#EXTINF:0,Argentina | El Nueve SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40030.m3u8
+#EXTINF:0,Argentina | El Trece 13
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12650.m3u8
+#EXTINF:0,Argentina | El Trece 13 SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40025.m3u8
+#EXTINF:0,Argentina | LN+
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/14004.m3u8
+#EXTINF:0,Argentina | LN+ SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40023.m3u8
+#EXTINF:0,Argentina | NET TV
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/18800.m3u8
+#EXTINF:0,Argentina | NET TV SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40032.m3u8
+#EXTINF:0,Argentina | TEC TV
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/18293.m3u8
+#EXTINF:0,Argentina | Telefe
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12637.m3u8
+#EXTINF:0,Argentina | Telefe SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40028.m3u8
+#EXTINF:0,Argentina | TN Todo Noticias
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12638.m3u8
+#EXTINF:0,Argentina | TN Todo Noticias SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40027.m3u8
+#EXTINF:0,Argentina | TV Publica
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12623.m3u8
+#EXTINF:0,Argentina | TV Publica SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/40029.m3u8
+#EXTINF:0,Argentina | Volver
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/32975.m3u8
+#EXTINF:0,Noticias | 24/7 NOTICIAS
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/3871.m3u8
+#EXTINF:0,Noticias | BBC World
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/15947.m3u8
+#EXTINF:0,Noticias | CNN en Espanol
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/15959.m3u8
+#EXTINF:0,Noticias | CNN Internacional
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/15964.m3u8
+#EXTINF:0,Noticias | CNN
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/39639.m3u8
+#EXTINF:0,Noticias | Fox News
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/15967.m3u8
+#EXTINF:0,Noticias | Headline News
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/15969.m3u8
+#EXTINF:0,Deportes | Fox Sport Premium
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/12671.m3u8
+#EXTINF:0,Deportes | Fox Sport Premium SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/36671.m3u8
+#EXTINF:0,Deportes | TNT Sports
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/19496.m3u8
+#EXTINF:0,Deportes | TNT Sports SD
+#EXTGRP:unsorted
+http://54.39.51.30:25461/live/CaCrpCKrzy/4ZX8GqMDpK/36670.m3u8
+#EXTINF:0,Deportes | TyC Sports
